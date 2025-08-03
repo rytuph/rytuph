@@ -7,7 +7,7 @@
   <p align="center">
   <a href="https://linkedin.com/in/ryanzhang-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <!-- 👇 ADD THIS NEW LINE 👇 -->
-  <a href="https://github.com/rytuph/rytuph/raw/main/Ryan_Zhang_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"></a>
+  <a href="https://raw.githack.com/rytuph/rytuph/main/Ryan_Zhang_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"></a>
   <a href="mailto:cs.ryanzhang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 </div>
