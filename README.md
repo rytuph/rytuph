@@ -18,11 +18,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a developer with a passion for building high-impact solutions, with experience spanning from large corporations and research labs to fast-paced startup environments. I have end-to-end experience in model R&D with **PyTorch** and a proven ability to deploy containerized applications using **FastAPI** and **Docker**. My background also includes optimizing low-level algorithms in **C/C++** and building robust **CI/CD pipelines** for reliable software delivery.
+I'm a SWE / MLE and I love building interesting high-impact solutions. I've gone from optimizing quantum cryptography low-level algorithms in **C** at a fast-paced startup, to performing machine learning research with generative AI to generate novel potential battery molecules for an alternative to Lithium ion.
 
-- 🔭 I’m currently working on enhancing generative AI models and building scalable backend services.
-- 🌱 I’m constantly exploring new advancements in MLOps and distributed systems.
-- 🤔 I’m looking for impactful internship roles where I can contribute to challenging software and machine learning problems.
+I am currently working at BMW Group where I completed the R&D of a generative AI model to generate 3D models for designers to speed up 3D design prototyping:
+- 🔭 Completed the end-to-end ML model R&D process with **PyTorch**
+- 🌱 Containerized the applications using **FastAPI** and **Docker** 
+
+**I’m looking for impactful internship roles where I can contribute to challenging software and machine learning problems. Open to positions in North America**
 
 ---
 
