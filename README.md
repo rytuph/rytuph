@@ -1,11 +1,5 @@
-<!-- 
-Hi Ryan! This is your new Profile README.
-It's designed to be clean, professional, and highlight the key strengths from your resume.
-Don't forget to replace the placeholder links for your projects at the bottom!
--->
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rytuph/rytuph/main/assets/header.png" alt="Ryan Zhang - Software & Machine Learning Engineer" width="800"/>
+  <!-- <img src="https://raw.githubusercontent.com/rytuph/rytuph/main/assets/header.png" alt="Ryan Zhang - Software & Machine Learning Engineer" width="800"/>-->
   <h1>Hi there, I'm Ryan Zhang 👋</h1>
   <h3>Software & Machine Learning Engineer specializing in Python, MLOps, and backend systems.</h3>
   <p>Open to SWE/MLE internship opportunities across North America.</p>
