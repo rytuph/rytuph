@@ -22,7 +22,7 @@ I'm a SWE / MLE and I love building interesting high-impact solutions. I've gone
 
 I am currently working at BMW Group where I completed the R&D of a generative AI model to generate 3D models for designers to speed up 3D design prototyping:
 - 🔭 Completed the end-to-end ML model R&D process with **PyTorch**
-- 🌱 Containerized the applications using **FastAPI** and **Docker** 
+- 🌱 Containerized the applications into active designer team workflows using **FastAPI** and **Docker** 
 
 **I’m looking for impactful internship roles where I can contribute to challenging software and machine learning problems. Open to positions in North America**
 
