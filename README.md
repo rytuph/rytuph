@@ -2,8 +2,8 @@
   <!-- To enable the header, upload header.png to an 'assets' folder and remove the comment tags below -->
   <!-- <img src="https://raw.githubusercontent.com/rytuph/rytuph/main/assets/header.png" alt="Ryan Zhang - Software & Machine Learning Engineer" width="800"/> -->
   <h1>Hi there, I'm Ryan Zhang 👋</h1>
-  <h3>Software & Machine Learning Engineer specializing in Python, MLOps, and backend systems.</h3>
-  <p>Open to SWE/MLE internship opportunities across North America.</p>
+  <h3>Software & Machine Learning Engineer<br>Computer Science Student @ Carleton University.</h3>
+  <p>Open to SWE/MLE internship opportunities across North America<br>Winter 2026 & Summer 2026</p>
   
   <p align="center">
     <a href="https://linkedin.com/in/ryanzhang-link" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -18,13 +18,15 @@
 
 ### 👨‍💻 About Me
 
-I'm a SWE / MLE and I love building interesting high-impact solutions. I've gone from optimizing quantum cryptography low-level algorithms in **C** at a fast-paced startup, to performing machine learning research with generative AI to generate novel potential battery molecules for an alternative to Lithium ion.
+Hey, thanks for checking out my Github. If you didn't come from my resume, check it out! ⬆️
 
-I am currently working at BMW Group where I completed the R&D of a generative AI model to generate 3D models for designers to speed up 3D design prototyping:
-- 🔭 Completed the end-to-end ML model R&D process with **PyTorch**
-- 🌱 Containerized the applications into active designer team workflows using **FastAPI** and **Docker** 
+Currently, I'm a MLE Intern @ BMW Group until October 2025
 
-**I’m looking for impactful internship roles where I can contribute to challenging software and machine learning problems. Open to positions in North America**
+Previously:
+
+ML Research Intern at National Research Council Canada
+
+SWE Intern @ Quantropi
 
 ---
 
