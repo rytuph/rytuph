@@ -1,16 +1,17 @@
 <div align="center">
-  <!-- <img src="https://raw.githubusercontent.com/rytuph/rytuph/main/assets/header.png" alt="Ryan Zhang - Software & Machine Learning Engineer" width="800"/>-->
+  <!-- To enable the header, upload header.png to an 'assets' folder and remove the comment tags below -->
+  <!-- <img src="https://raw.githubusercontent.com/rytuph/rytuph/main/assets/header.png" alt="Ryan Zhang - Software & Machine Learning Engineer" width="800"/> -->
   <h1>Hi there, I'm Ryan Zhang 👋</h1>
   <h3>Software & Machine Learning Engineer specializing in Python, MLOps, and backend systems.</h3>
   <p>Open to SWE/MLE internship opportunities across North America.</p>
   
   <p align="center">
-  <a href="https://linkedin.com/in/ryanzhang-link" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-   
-  <a href="https://raw.githack.com/rytuph/rytuph/main/Ryan_Zhang_Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"></a>
-   
-  <a href="mailto:cs.ryanzhang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+    <a href="https://linkedin.com/in/ryanzhang-link" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+     
+    <a href="https://raw.githack.com/rytuph/rytuph/main/Ryan_Zhang_Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"></a>
+     
+    <a href="mailto:cs.ryanzhang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
 </div>
 
 ---
@@ -68,7 +69,7 @@ Here are some of the technologies I've been working with extensively:
     </td>
   </tr>
 </table>
-
+<!-- 
 ---
 
 ### 🚀 My Featured Projects
@@ -77,17 +78,12 @@ Here are a few projects I'm particularly proud of. They showcase my ability to b
 
 | Project                                      | Description                                                                                                                                  | Technologies Used                                             |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| **🏆 Touchless Interface**<br/>[🔗 Repository][1] | **Winner of uOttaHacks Overall & other categories.** Built a gesture and voice interface using ML to reduce contact in high-risk settings. Features a secure AWS backend for real-time analytics. | `Python` `OpenCV` `Mediapipe` `AWS` `IAM` `API Gateway` `Flask` `DynamoDB` |
-| **🏆 SQLidify**<br/>[🔗 Repository][2]         | **Winner of McGill Hacks Cohere Challenge.** A full-stack SQL injection detector powered by a fine-tuned Cohere LLM, achieving 92% accuracy. Includes a classification pipeline and a user-facing review interface. | `Python` `Flask` `Cohere` `LLM` `React` `JavaScript`        |
+| **🏆 Touchless Interface**<br/>[🔗 Devpost][1] | **Winner of uOttaHacks Overall & other categories.** Built a gesture and voice interface using ML to reduce contact in high-risk settings. Features a secure AWS backend for real-time analytics. | `Python` `OpenCV` `Mediapipe` `AWS` `IAM` `API Gateway` `Flask` `DynamoDB` |
+| **🏆 SQLidify**<br/>[🔗 Devpost][2]         | **Winner of McGill Hacks Cohere Challenge.** A full-stack SQL injection detector powered by a fine-tuned Cohere LLM, achieving 92% accuracy. Includes a classification pipeline and a user-facing review interface. | `Python` `Flask` `Cohere` `LLM` `React` `JavaScript`        |
 
-<!-- 
-IMPORTANT: Add the links to your project repositories here. 
-For example: [1]: https://github.com/rytuph/touchless-repo
--->
 [1]: https://devpost.com/software/touchless-g72ten
 [2]: https://devpost.com/software/sqlidify-10i4zl
 
-<!-- 
 ---
 
 ### 📊 My GitHub Stats
