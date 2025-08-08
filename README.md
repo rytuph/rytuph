@@ -33,6 +33,7 @@ SWE Intern @ Quantropi
 ### 🛠️ My Tech Stack
 
 Here are some of the technologies I've been working with extensively:
+Most of my work has is done on proprietary githubs. I also have a couple projects in the works that I will be publishing soon.
 
 <table>
   <tr>
