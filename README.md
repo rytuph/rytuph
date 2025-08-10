@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/ryanzhang-link" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
      
-    <a href="https://raw.githack.com/rytuph/rytuph/main/Ryan_Zhang_Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"></a>
+    <a href="https://rawcdn.githack.com/rytuph/rytuph/bcc5fb0d4f44e65902cbac244d6fc6fd14bf6029/RyanZhangResume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"></a>
      
     <a href="mailto:cs.ryanzhang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
