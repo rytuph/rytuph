@@ -3,7 +3,8 @@
   <!-- <img src="https://raw.githubusercontent.com/rytuph/rytuph/main/assets/header.png" alt="Ryan Zhang - Software & Machine Learning Engineer" width="800"/> -->
   <h1>Hi there, I'm Ryan Zhang 👋</h1>
   <h3>Software & Machine Learning Engineer<br>Computer Science Student @ Carleton University.</h3>
-  <p>Interested in SWE and MLE internship opportunities across North America<br>Winter 2026 & Summer 2026</p>
+  <p>Interested in SWE and MLE internship opportunities across North America<br>Fall 2026 & later</p>
+  <p>Interested in Machine Learning, Distributed Systems and Infrastructure</p>
   
   <p align="center">
     <a href="https://linkedin.com/in/ryanzhang-link" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -19,9 +20,10 @@
 ### 👨‍💻 About Me
 
 
-Currently, I'm a MLE Intern @ BMW Group until October 2025
+I will be joining Lyft as a ML SWE this summer. 
 
 Previously:
+MLE Intern @ BMW Group
 
 ML Research Intern at National Research Council Canada
 
