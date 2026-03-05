@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me
 
 
-I will be joining Lyft as a ML SWE this summer. 
+Incoming ML SWE @ Lyft this summer. 
 
 Previously:
 MLE Intern @ BMW Group
